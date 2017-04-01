@@ -59,7 +59,7 @@ b) for prod build: [localhost:8080](http://localhost:8080/)
 - [Webpack dev middleware](https://github.com/webpack/webpack-dev-middleware)
 - [HMR](https://github.com/glenjamin/webpack-hot-middleware)
 - [Webpack merge](https://github.com/survivejs/webpack-merge)
-- [Babel (es6)](https://github.com/babel/babel-loader) + polyfill
+- [Babel (es6)](https://github.com/babel/babel-loader)
 - [EsLint](https://github.com/MoOx/eslint-loader)
 - [StyleLint](https://github.com/JaKXz/stylelint-webpack-plugin) 
 - [StyleLint Standard Config](https://github.com/stylelint/stylelint-config-standard)
