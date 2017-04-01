@@ -56,9 +56,13 @@ b) for prod build: [localhost:8080](http://localhost:8080/)
 
 ## Features
 
+- [Webpack dev middleware](https://github.com/webpack/webpack-dev-middleware)
+- [HMR](https://github.com/glenjamin/webpack-hot-middleware)
+- [Webpack merge](https://github.com/survivejs/webpack-merge)
 - [Babel (es6)](https://github.com/babel/babel-loader) + polyfill
 - [EsLint](https://github.com/MoOx/eslint-loader)
-- [StyleLint](https://github.com/JaKXz/stylelint-webpack-plugin)
+- [StyleLint](https://github.com/JaKXz/stylelint-webpack-plugin) 
+- [StyleLint Standard Config](https://github.com/stylelint/stylelint-config-standard)
 - [Resolve Url](https://github.com/bholloway/resolve-url-loader)
 - [Url Loader](https://github.com/webpack-contrib/url-loader)
 - [PostCss](https://github.com/postcss/postcss-loader)
@@ -67,7 +71,7 @@ b) for prod build: [localhost:8080](http://localhost:8080/)
 - [Extract Text-webpack plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin)
 - [Html-webpack plugin](https://github.com/jantimon/html-webpack-plugin)
 - [Copy-webpack plugin](https://github.com/kevlened/copy-webpack-plugin)
-- CommonsChunkPlugin
+- Webpack Plugins: Provide, Define, UglifyJS, CommonsChunk
 
 ## Conclusion
 
