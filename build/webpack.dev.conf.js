@@ -11,7 +11,7 @@ var env = config.dev.env;
 
 module.exports = merge(baseWebpackConfig, {
   entry: [
-    'webpack-hot-middleware/client',
+    'webpack-hot-middleware/client?reload=true&noInfo=true',
     './src/main.js'
   ],
   module: {
